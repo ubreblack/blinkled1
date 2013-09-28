@@ -2,10 +2,9 @@
 
 
 //solved conflict 1.1 and 1.2
-//merge 1.3b y 1.3 a solucionaods
+//merge fix 1.3a y 1.3b y solucionados
 
 void main (void)
 {
 
 }
-
