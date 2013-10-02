@@ -1,4 +1,10 @@
 //second 
 
-//added fix 1.1
-// fix 1.2
+
+//solved conflict 1.1 and 1.2
+//merge fix 1.3a y 1.3b y solucionados
+
+void main (void)
+{
+ //cambio en master
+}
